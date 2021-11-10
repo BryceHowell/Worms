@@ -2,9 +2,9 @@
 A simulation of natural selection and predator-prey population cycles written in Java.
 
 # Compiling
-Place all files in a directory and
+Place all files in a directory and generate the class files with the following:
 > $ javac WormFrame.java
-will generate the class files.
+
 
 # Running
 > $ java WormFrame
